@@ -179,30 +179,6 @@ En plus des fonctionnalités décrites dans les vidéos, Redis offre plusieurs a
 
 Redis est une base de données NoSQL clé-valeur puissante et flexible, idéale pour les applications nécessitant des accès rapides et une haute disponibilité. En suivant les manipulations décrites dans ce rapport, vous devriez être en mesure de comprendre comment installer, configurer et utiliser Redis pour diverses applications. N'oubliez pas de soumettre votre travail sur votre dépôt Git et de répondre aux questions posées à la fin de la vidéo n°3.
 
-## Soumission du Travail
-
-Pour soumettre votre travail, suivez ces étapes :
-
-1. **Cloner le Dépôt Git** :
-   ```bash
-   git clone <URL_DU_DEPOT>
-   ```
-
-2. **Ajouter les Fichiers** :
-   ```bash
-   git add .
-   ```
-
-3. **Commit** :
-   ```bash
-   git commit -m "Ajout du rapport de TP sur Redis"
-   ```
-
-4. **Pousser les Modifications** :
-   ```bash
-   git push origin main
-   ```
-
 ## Réponse à la Question de la Vidéo n°3
 
 **Question** : Expliquer au moins quatre fonctionnalités, en plus de celles décrites dans les vidéos.
