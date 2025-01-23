@@ -37,8 +37,7 @@ Chaque dossier de TP contient :
 1. **Redis** : Base de données clé-valeur en mémoire
 2. **MongoDB** : Base de données orientée documents
 3. **Cassandra** : Base de données orientée colonnes
-4. **Neo4j** : Base de données orientée graphes (introduction théorique)
-
+4. 
 ## Comment Utiliser ce Dépôt
 1. Clonez le dépôt :
 ```bash
