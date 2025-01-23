@@ -1,5 +1,3 @@
-Vous avez raison - mon rapport précédent, bien que pédagogique, ne répond pas complètement aux objectifs du TP. Je vais proposer une version améliorée qui couvre tous les aspects demandés.
-
 # Redis et les Bases de Données NoSQL
 *Un guide complet d'installation et d'utilisation*
 
