@@ -15,7 +15,7 @@ Ce dépôt contient les travaux pratiques et les ressources liées au cours de b
 ├── TP2-MongoDB/
 │   └── README.md
 │
-├── TP3-Cassandra/
+├── TP3-CoucheDB/
 │   └──  README.md
 │
 └── README.md
